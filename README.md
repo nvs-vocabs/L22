@@ -1,2 +1,2 @@
 # L22
-SeaVoX Device Catalogue
+A controlled vocabulary for SeaVoX Device Catalogue

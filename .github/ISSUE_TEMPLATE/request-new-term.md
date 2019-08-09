@@ -6,8 +6,7 @@ labels: New term
 assignees: ''
 
 ---
-Please provide the following information
-###all fields are mandatory unless specified otherwise
+Please provide the following information (all fields are mandatory unless specified otherwise)
 
 ## Device make
 [This is the name of the manufacturer or institution which made the instrument. If there is a manufacturer but you have not been able to confirm this information, input 'Unknown manufacturer'. If you are creating a generic instrument (e.g. a generic temperature sensor, then input 'Unspecified'. NB: Unknown and unspecified are usually used for older instances of instruments.]

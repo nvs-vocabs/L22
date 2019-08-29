@@ -1,10 +1,15 @@
 # L22
-A controlled vocabulary for SeaVoX Device Catalogue
+SeaVoX Device Catalogue - a controlled vocabulary containing names and descriptions of instruments and sensors used in the oceanographic and related domains. 
 
+Terms and mappings available from: http://vocab.nerc.ac.uk/collection/L22/current/
+
+BODC search interface: https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/
+SeaDataNet search interface: http://seadatanet.maris2.nl/v_bodc_vocab_v2/search.asp?lib=L22
+SeaDataNet Device Thesaurus http://vocab.nerc.ac.uk/scheme/SDNDEV/current/ to find instruments and sensors using a 3-level hierarchy made of the SeaDataNet Device Category Types (L21) at the top, SeaDataNet Device Categories (L05) and the SeaVoX Device Catalogue (L22). 
 <br />
 <br />
 
-## Requesting a new term
+## Path to requesting a new term
 
 <table border="0" cell padding="0">
   <tr>
@@ -34,14 +39,3 @@ A controlled vocabulary for SeaVoX Device Catalogue
 
 <br />
 <br />
-
-## Ways to access L22 terms
-<p>
-<a href="https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/">https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/</a>
-  </p>
-  <p>
-<a href="http://vocab.nerc.ac.uk/collection/L22/current/">http://vocab.nerc.ac.uk/collection/L22/current/</a>
-  </p>
-
-
-  

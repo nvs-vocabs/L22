@@ -1,7 +1,7 @@
 # L22
 SeaVoX Device Catalogue - a controlled vocabulary containing names and descriptions of instruments and sensors used in the oceanographic and related domains. 
 
-Terms and mappings available from:
+Terms and mappings for this vocabulary available from:
 
 * [NERC Vocabulary Server](http://vocab.nerc.ac.uk/collection/L22/current/)
 
@@ -45,4 +45,4 @@ Terms and mappings available from:
 
 - Requests for multiple L22 concepts can be submitted via the [bulk excel template](L22_submission_template_v2.0.xltx) provided in this repository
 
-- Reporting errors or suggestions for improving content can also be submitted as issues in this repository or emailed to vocab.services@bodc.ac.uk. 
+- Reporting errors or suggestions for improving content can also be submitted as [regular issues](https://github.com/nvs-vocabs/L22/issues/new) in this repository or emailed to vocab.services@bodc.ac.uk. 

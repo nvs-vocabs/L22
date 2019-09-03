@@ -12,6 +12,8 @@ Terms and mappings for this vocabulary are available from:
 * [SeaDataNet Device Thesaurus](http://vocab.nerc.ac.uk/scheme/SDNDEV/current/) to find instruments and sensors using a 3-level hierarchy made of the SeaDataNet Device Category Types (L21) at the top, SeaDataNet Device Categories (L05) and the SeaVoX Device Catalogue (L22). 
 
 
+
+
 ## Path to requesting a new term
 
 <table>

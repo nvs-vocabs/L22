@@ -1,7 +1,7 @@
 # L22
 SeaVoX Device Catalogue - a controlled vocabulary containing names and descriptions of instruments and sensors used in the oceanographic and related domains. 
 
-Terms and mappings for this vocabulary available from:
+Terms and mappings for this vocabulary are available from:
 
 * [NERC Vocabulary Server](http://vocab.nerc.ac.uk/collection/L22/current/)
 
@@ -14,31 +14,32 @@ Terms and mappings for this vocabulary available from:
 
 ## Path to requesting a new term
 
-<table bgcolor="rgb(255,255,255)">
+<table>
   <tr>
     <td>
       <a href="https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/">
-        <img src="L22_images/What_is_an_instrument.png" height="175" border = "0" title="Instrument examples">
+        <img src="L22_images/What_is_an_instrument.png" height="175" title="Instrument examples">
       </a>
     </td>
     <td>
-      <img src="L22_images/Arrow1.png" height="50" border ="0">
+      <img src="L22_images/Arrow1.png" height="50">
     </td>
         <td>
    <a href="https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/">
-   <img src="L22_images/Does_it_exist.png" height="175" border = "0" title="Search instruments">
+   <img src="L22_images/Does_it_exist.png" height="175" title="Search instruments">
           </a>
     </td>
      <td>
-      <img src="L22_images/Arrow1.png" height="50" border = "0">
+      <img src="L22_images/Arrow1.png" height="50">
     </td>
       <td>
         <a href="https://github.com/nvs-vocabs/L22/issues/new?assignees=&labels=New+term&template=request-new-term.md&title=NTR%3A">
-   <img src="L22_images/Create_new_term.png" height="175" border = "0" title="Submit a new instrument">
+   <img src="L22_images/Create_new_term.png" height="175" title="Submit a new instrument">
         </a>
     </td>
   </tr>
   </table>
+  
 
 ## Other ways to contribute
 - Requests for new L22 concepts can also be emailed to vocab.services@bodc.ac.uk if you do not have access to github

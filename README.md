@@ -14,7 +14,7 @@ Terms and mappings for this vocabulary available from:
 
 ## Path to requesting a new term
 
-<table border = "0" cell padding = "0">
+<table bgcolor="rgb(255,255,255)">
   <tr>
     <td>
       <a href="https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/">

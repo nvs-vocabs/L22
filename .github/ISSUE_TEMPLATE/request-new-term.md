@@ -9,7 +9,7 @@ assignees: ''
 Please provide the following information (all fields are mandatory unless specified otherwise)
 
 ## Device make
-[This is the name of the manufacturer or institution which made the instrument. If there is a manufacturer but you have not been able to confirm this information, input 'Unknown manufacturer'. If you are creating a generic instrument (e.g. a generic temperature sensor, then input 'Unspecified'. NB: Unknown and unspecified are usually used for older instances of instruments.]
+[This is the name of the manufacturer or institution which made the instrument. If there is a manufacturer but you have not been able to confirm this information or there is no official manufacturer, input 'Inapplicable'. If you are creating a generic instrument (e.g. a generic temperature sensor, then input 'Unspecified'.]
 
 ## Device model
 [Name of the instrument model. If you have not been able to confirm the model of the instrument, then input 'unknown model'. If there is no official model name, input 'n/a'. Unknown is generally used for older instruments]
@@ -27,7 +27,7 @@ Please provide the following information (all fields are mandatory unless specif
 [Please indicate what type of instrument it is (e.g. global positioning system, fluorometer, etc.)]
 
 ## Does the tool describe a series of instruments? 
-[If it is a series, input "series". If it is an individual instrument then leave blank.]
+[Does the term describe a manufacturing 'series' of instruments, a 'system' of instruments, an 'individual' instrument or other?]
 
 ## Reference
 [Citation for the instrument (e.g. Hall and Bumpus 1937, 1944). Use if the instrument is manufactuered and built according to a design in a paper.]

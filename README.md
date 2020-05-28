@@ -45,6 +45,6 @@ Terms and mappings for this vocabulary are available from:
 ## Other ways to contribute
 - Requests for new L22 concepts can also be emailed to vocab.services@bodc.ac.uk if you do not have access to github
 
-- Requests for multiple L22 concepts can be submitted via the [bulk excel template](L22_submission_template_v2.0.xltx) provided in this repository
+- Requests for multiple L22 concepts can be submitted via the [bulk excel template](L22_submission_template_v2.2.xlsx) provided in this repository
 
 - Reporting errors or suggestions for improving content can also be submitted as [regular issues](https://github.com/nvs-vocabs/L22/issues/new) in this repository or emailed to vocab.services@bodc.ac.uk. 

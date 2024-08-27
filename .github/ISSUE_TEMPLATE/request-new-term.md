@@ -24,7 +24,7 @@ Please provide the following information (all fields are mandatory unless specif
 [Alternative name for the model. E.g. Glider Payload CTD alternative name is GPCTD]
 
 ## Modification (if applicable)
-[Describes any modifications to the instrument design, such as a manufactured device that has been modified 'in-house' or a plakton net that has been modified since its first description.]
+[Describes any modifications to the instrument design, such as a manufactured device that has been modified 'in-house' or a plankton net that has been modified since its first description.]
 
 ## Qualification (if applicable)
 [Qualification of the instrument type i.e. a word or words that further describe the instrument type (e.g. 'portable','automated','pressure-compensated','large' etc.). Sometimes these are used in manufacturer names.]
@@ -36,7 +36,7 @@ Please provide the following information (all fields are mandatory unless specif
 [Does the term describe a manufacturing 'series' of instruments, a 'system' of instruments, an 'individual' instrument or other?]
 
 ## Reference (if applicable)
-[Citation for the instrument (e.g. Hall and Bumpus 1937, 1944). Use if the instrument is manufactuered and built according to a design in a paper.]
+[Citation for the instrument (e.g. Hall and Bumpus 1937, 1944). Use if the instrument is manufactured and built according to a design in a paper.]
 
 ## Short name
 [Shortened name of the instrument. This is usually a shortened version of name limited to make, model and version. It can also be an alternative name.]

@@ -1,6 +1,6 @@
 name: request-new-term
 description: Template to submit a new device to the SeaVoX Device Catalogue (L22)
-title: "NTR:"
+title: "NTR: "
 labels: [New term]
 assignees: []
 
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please provide the following information (all fields are mandatory unless specified otherwise)
+        Please provide the following information (all fields are mandatory unless specified otherwise). If you are unsure about a particular field, please either make an attempt or leave it blank. Queries can be discussed in the ticket comments.
 
   - type: input
     id: make
@@ -66,21 +66,20 @@ body:
     attributes:
       label: Instrument type
       description: >
-        What type of instrument is this (e.g. global positioning system, fluorometer)?
+        What type of instrument is this (e.g. global positioning system, fluorometer, radiometer)?
         See [L05 SeaDataNet device categories](https://vocab.nerc.ac.uk/collection/L05/current/) for reference.
 
   - type: dropdown
     id: describes
     attributes:
-      label: Does the tool describe a system, or series of instruments?
+      label: Instrument category?
       description: >
-        Does the term describe a 'series', a 'system', an 'individual' instrument, or 'other'? 
-        See [this guidance](https://github.com/nvs-vocabs/Guides-and-Resources/blob/main/Instruments%20and%20Sensors.md).
+        Does the term describe an individual instrument, a system, a series of instruments, or none of the above? 
+        See [this guidance](https://github.com/nvs-vocabs/Guides-and-Resources/blob/main/Instruments%20and%20Sensors.md) for the differences between instrument series and systems.
       options:
         - Individual
         - System
         - Series
-        - Other
 
   - type: input
     id: reference

@@ -30,10 +30,10 @@ Please provide the following information (all fields are mandatory unless specif
 [Qualification of the instrument type i.e. a word or words that further describe the instrument type (e.g. 'portable','automated','pressure-compensated','large' etc.). Sometimes these are used in manufacturer names.]
 
 ## Instrument type
-[Please indicate what type of instrument it is (e.g. global positioning system, fluorometer, etc.). You may wish to review the L05 SeaDataNet device categories vocabulary collection for this https://vocab.nerc.ac.uk/collection/L05/current/]
+Please indicate what type of instrument it is (e.g. global positioning system, fluorometer, etc.). You may wish to review the [L05 SeaDataNet device categories vocabulary collection](https://vocab.nerc.ac.uk/collection/L05/current/) for this.
 
 ## Does the tool describe a system, or series of instruments?
-[Does the term describe a manufacturing 'series' of instruments, a 'system', an 'individual' instrument or 'other'? See guidance here: /nvs-vocabs/Guides-and-Resources/blob/main/Instruments%20and%20Sensors]
+Does the term describe a manufacturing 'series' of instruments, a 'system', an 'individual' instrument or 'other'? See the guidance [here](https://github.com/nvs-vocabs/Guides-and-Resources/blob/main/Instruments%20and%20Sensors.md).
 
 ## Reference (if applicable)
 [Citation for the instrument (e.g. Hall and Bumpus, 1937). Use if the instrument is manufactured and built according to a design in a paper.]

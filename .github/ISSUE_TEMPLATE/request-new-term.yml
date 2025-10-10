@@ -101,17 +101,32 @@ body:
       label: Documentation
       description: >
         Link to journal reference, manufacturer data sheet, website, manual, etc.
+      
+  - type: markdown
+    attributes:
+      value: "## Optional"
 
   - type: textarea
-    id: external_mappings
+    id: mapping
     attributes:
-      label: Mapping to external terminologies (optional)
-      description: >
-        Is your submission related to any existing terms in external resources? Enter one or a list of URIs.
+      label: "Mapping to external terminologies"
+      description: "If your submission relates to existing terms in external resources, please enter one or a list of URIs"
 
+  - type: input
+    id: term-utilisation
+    attributes:
+      label: "Term utilisation"
+      description: |
+            Please provide the project, activity, or context associated with this request, 
+            and a brief indication of how or where it will be used. e.g.,  
+            EMODnet Chemistry – dataset submission to SeaDataNet;  
+            R2R Catalogue - online data portal;  
+            ONC - online data portal;  
+            LandSeaLOT – new sensor addition to SCOOP catalogue
+      
   - type: input
     id: orcid
     attributes:
-      label: ORCID (optional)
-      description: >
-        Enter your ORCID if desired.
+      label: "ORCID"
+      description: "Optionally provide your ORCID identifier"
+      placeholder: "0000-0000-0000-0000"

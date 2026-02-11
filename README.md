@@ -7,9 +7,9 @@ Terms and mappings for this vocabulary are available from:
 
 * [BODC search interface](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/)
 
-* [SeaDataNet search interface](http://seadatanet.maris2.nl/v_bodc_vocab_v2/search.asp?lib=L22)
+* [SeaDataNet search interface](https://vocab.seadatanet.org/v_bodc_vocab_v2/search.asp?lib=L22)
 
-* [SeaDataNet Device Thesaurus](http://vocab.nerc.ac.uk/scheme/SDNDEV/current/) to find instruments and sensors using a 3-level hierarchy made of the SeaDataNet Device Category Types (L21) at the top, SeaDataNet Device Categories (L05) and the SeaVoX Device Catalogue (L22). 
+* [SeaDataNet Device Thesaurus](http://vocab.nerc.ac.uk/scheme/SDNDEV/current/) to find instruments and sensors using a 3-level hierarchy made of the SeaDataNet Device Category Types (L21) at the top, SeaDataNet Device Categories (L05) and the SeaVoX Device Catalogue (L22)
 
 <br />
 
@@ -47,4 +47,4 @@ Terms and mappings for this vocabulary are available from:
 
 - Requests for multiple L22 concepts can be submitted via the [bulk excel template](L22_submission_template_v2.2.xlsx) provided in this repository
 
-- Reporting errors or suggestions for improving content can also be submitted as [regular issues](https://github.com/nvs-vocabs/L22/issues/new) in this repository or emailed to vocab.services@bodc.ac.uk. 
+- Reporting errors or suggestions for improving content can also be submitted as [regular issues](https://github.com/nvs-vocabs/L22/issues/new) in this repository or emailed to vocab.services@bodc.ac.uk

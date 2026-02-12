@@ -3,9 +3,9 @@ SeaVoX Device Catalogue - a controlled vocabulary containing names and descripti
 
 Terms and mappings for this vocabulary are available from:
 
-* [NERC Vocabulary Server](http://vocab.nerc.ac.uk/collection/L22/current/)
+* [NERC Vocabulary Server (NVS)](http://vocab.nerc.ac.uk/collection/L22/current/)
 
-* [BODC search interface](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/L22/)
+* [NVS search interface](https://vocab.nerc.ac.uk/search_nvs/L22/)
 
 * [SeaDataNet search interface](https://vocab.seadatanet.org/v_bodc_vocab_v2/search.asp?lib=L22)
 
